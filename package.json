@@ -26,7 +26,7 @@
     "beachball": "2.24.0",
     "chromatic": "6.7.0",
     "prettier": "2.7.1",
-    "husky": "8.0.1",
+    "husky": "8.0.3",
     "@nrwl/cli": "14.4.2",
     "@nrwl/jest": "14.4.2",
     "@nrwl/nx-cloud": "14.2.0",
