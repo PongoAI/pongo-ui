@@ -36,7 +36,7 @@
     "@cebus/scripts": "^0.0.0",
     "@cebus/eslint-plugin": "*",
     "@fluentui/react-conformance": "0.10.1",
-    "webpack": "5.73.0",
+    "webpack": "5.94.0",
     "@fluentui/react-conformance-griffel": "9.0.0-beta.3"
   },
   "workspaces": [
