@@ -26,7 +26,7 @@
     "beachball": "2.24.0",
     "chromatic": "6.7.0",
     "prettier": "2.7.1",
-    "husky": "8.0.3",
+    "husky": "8.0.1",
     "@nrwl/cli": "14.4.2",
     "@nrwl/jest": "14.4.2",
     "@nrwl/nx-cloud": "14.2.0",
@@ -35,7 +35,7 @@
     "@fluentui/bundle-size": "1.1.6",
     "@cebus/scripts": "^0.0.0",
     "@cebus/eslint-plugin": "*",
-    "@fluentui/react-conformance": "0.10.1",
+    "@fluentui/react-conformance": "0.19.3",
     "webpack": "5.73.0",
     "@fluentui/react-conformance-griffel": "9.0.0-beta.3"
   },
